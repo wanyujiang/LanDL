@@ -1,0 +1,8 @@
+**/logs
+*.log
+.idea/
+.ipynb_checkpoints/
+Data/
+data/
+*Shortcut.lnk
+*.csv
